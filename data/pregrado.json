@@ -1,5 +1,3005 @@
 [
   {
+    "numero": 301,
+    "enunciado": "¿Cuál es el objetivo principal de la ventilación pulmonar?",
+    "opciones": {
+      "A": "Transportar nutrientes a las células del cuerpo.",
+      "B": "Intercambiar gases entre la atmósfera y la sangre, permitiendo la oxigenación y eliminación de CO2.",
+      "C": "Filtrar las partículas de polvo del aire inspirado.",
+      "D": "Mantener la presión arterial dentro de los límites normales."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_301",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Ventilación pulmonar",
+    "dificultad": "Fácil",
+    "explicacion": "El objetivo principal de la ventilación pulmonar es intercambiar gases entre la atmósfera y la sangre, permitiendo la oxigenación y la eliminación de CO2.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 302,
+    "enunciado": "¿Qué estructura anatómica es una delgada membrana que tapiza la superficie del pulmón y la pared interna de la caja torácica?",
+    "opciones": {
+      "A": "El diafragma.",
+      "B": "El alveolo.",
+      "C": "El bronquiolo.",
+      "D": "La pleura."
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_302",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Anatomía pleural",
+    "dificultad": "Fácil",
+    "explicacion": "La pleura es la delgada membrana que tapiza la superficie del pulmón (pleura visceral) y la pared interna de la caja torácica (pleura parietal).",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 303,
+    "enunciado": "¿Cómo se denomina la presión negativa que existe en el espacio pleural y que mantiene los pulmones expandidos?",
+    "opciones": {
+      "A": "Presión intrapleural.",
+      "B": "Presión atmosférica.",
+      "C": "Presión alveolar.",
+      "D": "Presión transpulmonar."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_303",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Mecánica respiratoria",
+    "dificultad": "Media",
+    "explicacion": "La presión intrapleural es la presión negativa que existe en el espacio pleural y que mantiene los pulmones expandidos.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 304,
+    "enunciado": "¿Qué sucede con la presión alveolar durante una inspiración normal?",
+    "opciones": {
+      "A": "Aumenta hasta +1 cmH2O.",
+      "B": "Permanece igual a la presión atmosférica.",
+      "C": "Disminuye ligeramente por debajo de la presión atmosférica (aproximadamente -1 cmH2O).",
+      "D": "Se vuelve positiva para expulsar el aire."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_304",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Mecánica respiratoria",
+    "dificultad": "Media",
+    "explicacion": "Durante una inspiración normal, la presión alveolar disminuye ligeramente por debajo de la presión atmosférica (aproximadamente -1 cmH2O), permitiendo la entrada de aire.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 305,
+    "enunciado": "¿Cómo se define la \"distensibilidad\" pulmonar?",
+    "opciones": {
+      "A": "La capacidad del pulmón para oponerse al estiramiento.",
+      "B": "La capacidad del pulmón expandido para volver a su posición inicial.",
+      "C": "La facilidad con la que se hinchan los pulmones por cada aumento unitario de presión.",
+      "D": "La fuerza generada por la tensión superficial del líquido alveolar."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_305",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Propiedades pulmonares",
+    "dificultad": "Media",
+    "explicacion": "La distensibilidad pulmonar es la facilidad con la que se hinchan los pulmones por cada aumento unitario de presión.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 306,
+    "enunciado": "¿Cuál de las siguientes NO es una propiedad de los pulmones?",
+    "opciones": {
+      "A": "Elasticidad.",
+      "B": "Contractilidad.",
+      "C": "Distensibilidad.",
+      "D": "Retracción elástica."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_306",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Propiedades pulmonares",
+    "dificultad": "Media",
+    "explicacion": "La contractilidad no es una propiedad de los pulmones. Las propiedades pulmonares incluyen elasticidad, distensibilidad y retracción elástica.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 307,
+    "enunciado": "¿Qué sustancia es producida por los neumocitos tipo II y tiene como función reducir la tensión superficial en los alvéolos?",
+    "opciones": {
+      "A": "Moco.",
+      "B": "Elastina.",
+      "C": "Colágeno.",
+      "D": "Surfactante."
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_307",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Surfactante pulmonar",
+    "dificultad": "Fácil",
+    "explicacion": "El surfactante es producido por los neumocitos tipo II y reduce la tensión superficial en los alvéolos, evitando su colapso.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 308,
+    "enunciado": "¿Cuál es el volumen de aire corriente (VAC) en un adulto sano en reposo?",
+    "opciones": {
+      "A": "1200 ml.",
+      "B": "500 ml.",
+      "C": "3100 ml.",
+      "D": "6000 ml."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_308",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Volúmenes pulmonares",
+    "dificultad": "Fácil",
+    "explicacion": "El volumen de aire corriente (VAC) en un adulto sano en reposo es de aproximadamente 500 ml.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 309,
+    "enunciado": "¿Qué capacidad pulmonar se define como la cantidad máxima de aire que puede ser expulsada después de una inspiración máxima?",
+    "opciones": {
+      "A": "Capacidad residual funcional (CRF).",
+      "B": "Capacidad inspiratoria (CI).",
+      "C": "Capacidad vital (CV).",
+      "D": "Capacidad pulmonar total (CPT)."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_309",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Capacidades pulmonares",
+    "dificultad": "Media",
+    "explicacion": "La capacidad vital (CV) es la cantidad máxima de aire que puede ser expulsada después de una inspiración máxima.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 310,
+    "enunciado": "El volumen residual (VR) es la cantidad de aire que queda en los pulmones después de:",
+    "opciones": {
+      "A": "Un esfuerzo espiratorio máximo.",
+      "B": "Una espiración normal.",
+      "C": "Una inspiración máxima.",
+      "D": "Una inspiración normal."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_310",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Volúmenes pulmonares",
+    "dificultad": "Media",
+    "explicacion": "El volumen residual (VR) es la cantidad de aire que queda en los pulmones después de un esfuerzo espiratorio máximo.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 311,
+    "enunciado": "¿Cuál de los siguientes volúmenes NO puede ser medido directamente con un espirómetro?",
+    "opciones": {
+      "A": "Volumen corriente (VC).",
+      "B": "Volumen de reserva inspiratorio (VRI).",
+      "C": "Volumen de reserva espiratorio (VRE).",
+      "D": "Volumen residual (VR)."
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_311",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Volúmenes pulmonares",
+    "dificultad": "Alta",
+    "explicacion": "El volumen residual (VR) no puede ser medido directamente con un espirómetro, ya que es el aire que queda en los pulmones después de una espiración máxima.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 312,
+    "enunciado": "¿Qué capacidad pulmonar es la suma del volumen de reserva espiratorio (VRE) y el volumen residual (VR)?",
+    "opciones": {
+      "A": "Capacidad vital (CV).",
+      "B": "Capacidad inspiratoria (CI).",
+      "C": "Capacidad residual funcional (CRF).",
+      "D": "Capacidad pulmonar total (CPT)."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_312",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Capacidades pulmonares",
+    "dificultad": "Media",
+    "explicacion": "La capacidad residual funcional (CRF) es la suma del volumen de reserva espiratorio (VRE) y el volumen residual (VR).",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 313,
+    "enunciado": "¿Cuál es la función principal de los alvéolos?",
+    "opciones": {
+      "A": "Filtrar el aire inspirado.",
+      "B": "Realizar el intercambio gaseoso entre el aire y la sangre.",
+      "C": "Producir moco para humedecer el aire.",
+      "D": "Conducir el aire desde la tráquea hasta los bronquios."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_313",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Fisiología alveolar",
+    "dificultad": "Fácil",
+    "explicacion": "La función principal de los alvéolos es realizar el intercambio gaseoso entre el aire y la sangre.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 314,
+    "enunciado": "¿Qué tipo de célula alveolar constituye aproximadamente el 95% de la superficie alveolar y forma una delgada capa de revestimiento?",
+    "opciones": {
+      "A": "Neumocito tipo I.",
+      "B": "Neumocito tipo II.",
+      "C": "Macrófago alveolar.",
+      "D": "Mastocito."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_314",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Histología alveolar",
+    "dificultad": "Media",
+    "explicacion": "Los neumocitos tipo I constituyen aproximadamente el 95% de la superficie alveolar y forman una delgada capa de revestimiento.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 315,
+    "enunciado": "El surfactante pulmonar es secretado por:",
+    "opciones": {
+      "A": "Los neumocitos tipo I.",
+      "B": "Los macrófagos alveolares.",
+      "C": "Los neumocitos tipo II.",
+      "D": "Las células del epitelio bronquial."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_315",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Surfactante pulmonar",
+    "dificultad": "Fácil",
+    "explicacion": "El surfactante pulmonar es secretado por los neumocitos tipo II.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 316,
+    "enunciado": "¿Cuál es el efecto del surfactante sobre la tensión superficial del agua que recubre los alvéolos?",
+    "opciones": {
+      "A": "La aumenta significativamente.",
+      "B": "No tiene efecto sobre ella.",
+      "C": "La elimina por completo.",
+      "D": "La reduce considerablemente."
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_316",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Surfactante pulmonar",
+    "dificultad": "Media",
+    "explicacion": "El surfactante reduce considerablemente la tensión superficial del agua que recubre los alvéolos, evitando su colapso.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 317,
+    "enunciado": "¿Cuál es la presión arterial pulmonar media normal en un adulto sano en reposo?",
+    "opciones": {
+      "A": "25 mmHg.",
+      "B": "15 mmHg.",
+      "C": "8 mmHg.",
+      "D": "2 mmHg."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_317",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Circulación pulmonar",
+    "dificultad": "Media",
+    "explicacion": "La presión arterial pulmonar media normal en un adulto sano en reposo es de aproximadamente 15 mmHg.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 318,
+    "enunciado": "La circulación pulmonar se caracteriza por ser:",
+    "opciones": {
+      "A": "De alto flujo y baja presión.",
+      "B": "De bajo flujo y alta presión.",
+      "C": "De alto flujo y alta presión.",
+      "D": "De bajo flujo y baja presión."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_318",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Circulación pulmonar",
+    "dificultad": "Media",
+    "explicacion": "La circulación pulmonar se caracteriza por ser de alto flujo y baja presión.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 319,
+    "enunciado": "¿Qué ocurre con los vasos sanguíneos pulmonares cuando la concentración de O2 en los alvéolos disminuye (hipoxia)?",
+    "opciones": {
+      "A": "Se dilatan para aumentar el flujo sanguíneo.",
+      "B": "No experimentan ningún cambio.",
+      "C": "Se contraen (vasoconstricción) para desviar la sangre a zonas mejor ventiladas.",
+      "D": "Aumentan su permeabilidad."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_319",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Circulación pulmonar",
+    "dificultad": "Alta",
+    "explicacion": "La hipoxia alveolar induce vasoconstricción pulmonar, desviando el flujo sanguíneo a zonas mejor ventiladas.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 320,
+    "enunciado": "En el modelo de las Zonas de West, ¿qué zona se caracteriza por la ausencia de flujo sanguíneo debido a que la presión alveolar supera a la presión arterial y venosa?",
+    "opciones": {
+      "A": "Zona 2.",
+      "B": "Zona 3.",
+      "C": "Zona 4.",
+      "D": "Zona 1."
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_320",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Zonas de West",
+    "dificultad": "Alta",
+    "explicacion": "La Zona 1 de West se caracteriza por la ausencia de flujo sanguíneo debido a que la presión alveolar supera a la presión arterial y venosa.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 321,
+    "enunciado": "¿En qué zona de West el flujo sanguíneo es continuo porque la presión capilar alveolar es mayor que la presión del aire alveolar durante todo el ciclo cardíaco?",
+    "opciones": {
+      "A": "Zona 3.",
+      "B": "Zona 2.",
+      "C": "Zona 1.",
+      "D": "Zona 0."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_321",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Zonas de West",
+    "dificultad": "Alta",
+    "explicacion": "En la Zona 3 de West, el flujo sanguíneo es continuo porque la presión capilar alveolar es mayor que la presión del aire alveolar durante todo el ciclo cardíaco.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 322,
+    "enunciado": "¿Cómo se denomina la relación entre la ventilación alveolar total y el flujo sanguíneo pulmonar (gasto cardíaco)?",
+    "opciones": {
+      "A": "Cociente de difusión.",
+      "B": "Relación ventilación-perfusión (V/Q).",
+      "C": "Capacidad de difusión.",
+      "D": "Presión parcial de gases."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_322",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Relación V/Q",
+    "dificultad": "Media",
+    "explicacion": "La relación ventilación-perfusión (V/Q) es la relación entre la ventilación alveolar total y el flujo sanguíneo pulmonar (gasto cardíaco).",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 323,
+    "enunciado": "En un individuo sano en bipedestación, la relación V/Q en el vértice del pulmón es:",
+    "opciones": {
+      "A": "Menor que 1.",
+      "B": "Igual a 1.",
+      "C": "Mayor que 1.",
+      "D": "Igual a 0."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_323",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Relación V/Q",
+    "dificultad": "Alta",
+    "explicacion": "En bipedestación, la relación V/Q en el vértice del pulmón es mayor que 1, debido a que la ventilación supera a la perfusión en esa zona.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 324,
+    "enunciado": "¿Cuál es el valor de la relación ventilación-perfusión (V/Q) global en un pulmón normal?",
+    "opciones": {
+      "A": "1.0.",
+      "B": "1.5.",
+      "C": "0.5.",
+      "D": "0.8."
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_324",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Relación V/Q",
+    "dificultad": "Media",
+    "explicacion": "El valor de la relación ventilación-perfusión (V/Q) global en un pulmón normal es de aproximadamente 0.8.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 325,
+    "enunciado": "En una situación de obstrucción completa de la vía aérea que conduce a un alvéolo (ventilación = 0) pero con perfusión normal, la relación V/Q es:",
+    "opciones": {
+      "A": "0 (cortocircuito o shunt).",
+      "B": "Infinita (espacio muerto).",
+      "C": "Mayor que 1.",
+      "D": "Igual a 0.8."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_325",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Relación V/Q",
+    "dificultad": "Alta",
+    "explicacion": "Cuando la ventilación es 0 pero la perfusión es normal, la relación V/Q es 0, lo que se conoce como cortocircuito o shunt.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 326,
+    "enunciado": "En una situación de embolia pulmonar que bloquea el flujo sanguíneo a un área del pulmón (perfusión = 0) pero con ventilación normal, la relación V/Q es:",
+    "opciones": {
+      "A": "0 (cortocircuito o shunt).",
+      "B": "Infinita (espacio muerto).",
+      "C": "Menor que 1.",
+      "D": "Igual a 0.8."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_326",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Relación V/Q",
+    "dificultad": "Alta",
+    "explicacion": "Cuando la perfusión es 0 pero la ventilación es normal, la relación V/Q es infinita, lo que se conoce como espacio muerto.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 327,
+    "enunciado": "¿Qué gas tiene una velocidad de difusión a través de la membrana respiratoria aproximadamente 20 veces más rápida que el oxígeno?",
+    "opciones": {
+      "A": "Nitrógeno (N2).",
+      "B": "Helio (He).",
+      "C": "Dióxido de carbono (CO2).",
+      "D": "Monóxido de carbono (CO)."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_327",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Difusión de gases",
+    "dificultad": "Media",
+    "explicacion": "El dióxido de carbono (CO2) tiene una velocidad de difusión a través de la membrana respiratoria aproximadamente 20 veces más rápida que el oxígeno.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 328,
+    "enunciado": "La ley que rige la cantidad de un gas que se disuelve en un líquido a una temperatura dada es la:",
+    "opciones": {
+      "A": "Ley de Henry.",
+      "B": "Ley de Boyle.",
+      "C": "Ley de Dalton.",
+      "D": "Ley de LaPlace."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_328",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Leyes de los gases",
+    "dificultad": "Media",
+    "explicacion": "La ley de Henry rige la cantidad de un gas que se disuelve en un líquido a una temperatura dada.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 329,
+    "enunciado": "¿Cuál es la presión parcial de oxígeno (PO2) en el aire alveolar normal?",
+    "opciones": {
+      "A": "40 mmHg.",
+      "B": "760 mmHg.",
+      "C": "149 mmHg.",
+      "D": "104 mmHg."
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_329",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Presiones parciales de gases",
+    "dificultad": "Media",
+    "explicacion": "La presión parcial de oxígeno (PO2) en el aire alveolar normal es de aproximadamente 104 mmHg.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 330,
+    "enunciado": "¿Cuál es la presión parcial de dióxido de carbono (PCO2) en la sangre venosa mixta que llega a los pulmones?",
+    "opciones": {
+      "A": "40 mmHg.",
+      "B": "45 mmHg.",
+      "C": "100 mmHg.",
+      "D": "35 mmHg."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_330",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Presiones parciales de gases",
+    "dificultad": "Media",
+    "explicacion": "La presión parcial de dióxido de carbono (PCO2) en la sangre venosa mixta que llega a los pulmones es de aproximadamente 45 mmHg.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 331,
+    "enunciado": "La diferencia alvéolo-arterial de oxígeno (AaDO2) es un indicador de:",
+    "opciones": {
+      "A": "La eficiencia de la ventilación pulmonar.",
+      "B": "La capacidad de transporte de CO2.",
+      "C": "La eficiencia del intercambio gaseoso en los pulmones.",
+      "D": "El volumen de sangre en los pulmones."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_331",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Intercambio gaseoso",
+    "dificultad": "Alta",
+    "explicacion": "La diferencia alvéolo-arterial de oxígeno (AaDO2) es un indicador de la eficiencia del intercambio gaseoso en los pulmones.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 332,
+    "enunciado": "En un individuo sano que respira aire ambiental, la AaDO2 es generalmente:",
+    "opciones": {
+      "A": "Inferior a 15 mmHg.",
+      "B": "Superior a 20 mmHg.",
+      "C": "Igual a 40 mmHg.",
+      "D": "Igual a 0 mmHg."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_332",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Intercambio gaseoso",
+    "dificultad": "Alta",
+    "explicacion": "En un individuo sano que respira aire ambiental, la AaDO2 es generalmente inferior a 15 mmHg.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 333,
+    "enunciado": "¿Cómo se transporta la mayor parte del oxígeno (aproximadamente el 97%) en la sangre?",
+    "opciones": {
+      "A": "Disuelto en el plasma.",
+      "B": "Como ion bicarbonato (HCO3-).",
+      "C": "Como carbaminohemoglobina.",
+      "D": "Unido a la hemoglobina (oxihemoglobina)."
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_333",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Transporte de oxígeno",
+    "dificultad": "Fácil",
+    "explicacion": "Aproximadamente el 97% del oxígeno se transporta unido a la hemoglobina (oxihemoglobina) en la sangre.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 334,
+    "enunciado": "Un gramo de hemoglobina puede transportar aproximadamente:",
+    "opciones": {
+      "A": "0.5 ml de O2.",
+      "B": "1.34 ml de O2.",
+      "C": "2.5 ml de O2.",
+      "D": "20 ml de O2."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_334",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Transporte de oxígeno",
+    "dificultad": "Media",
+    "explicacion": "Un gramo de hemoglobina puede transportar aproximadamente 1.34 ml de O2.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 335,
+    "enunciado": "¿Cuál es la principal forma de transporte de dióxido de carbono (CO2) en la sangre?",
+    "opciones": {
+      "A": "Disuelto en el plasma.",
+      "B": "Como carbaminohemoglobina.",
+      "C": "Como ion bicarbonato (HCO3-).",
+      "D": "Como ácido carbónico (H2CO3)."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_335",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Transporte de dióxido de carbono",
+    "dificultad": "Media",
+    "explicacion": "La principal forma de transporte de dióxido de carbono (CO2) en la sangre es como ion bicarbonato (HCO3-).",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 336,
+    "enunciado": "El 70% del CO2 es transportado en la sangre en forma de:",
+    "opciones": {
+      "A": "Bicarbonato (HCO3-).",
+      "B": "Carbaminohemoglobina.",
+      "C": "Gas disuelto en plasma.",
+      "D": "Ácido carbónico."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_336",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Transporte de dióxido de carbono",
+    "dificultad": "Media",
+    "explicacion": "El 70% del CO2 es transportado en la sangre en forma de bicarbonato (HCO3-).",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 337,
+    "enunciado": "¿Qué enzima, presente en los eritrocitos, cataliza la reacción entre el CO2 y el agua para formar ácido carbónico?",
+    "opciones": {
+      "A": "Carboxipeptidasa.",
+      "B": "Anhidrasa carbónica.",
+      "C": "Hemoglobina reductasa.",
+      "D": "Catalasa."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_337",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Transporte de dióxido de carbono",
+    "dificultad": "Media",
+    "explicacion": "La anhidrasa carbónica, presente en los eritrocitos, cataliza la reacción entre el CO2 y el agua para formar ácido carbónico.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 338,
+    "enunciado": "El transporte de CO2 como carbaminohemoglobina implica su unión a:",
+    "opciones": {
+      "A": "El grupo hemo de la hemoglobina.",
+      "B": "El ion hierro de la hemoglobina.",
+      "C": "El oxígeno en la hemoglobina.",
+      "D": "Los grupos amino de la hemoglobina (Hb)."
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_338",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Transporte de dióxido de carbono",
+    "dificultad": "Alta",
+    "explicacion": "El transporte de CO2 como carbaminohemoglobina implica su unión a los grupos amino de la hemoglobina (Hb).",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 339,
+    "enunciado": "¿Cuál es la presión barométrica a nivel del mar?",
+    "opciones": {
+      "A": "760 cmH2O.",
+      "B": "1013 mmHg.",
+      "C": "760 mmHg.",
+      "D": "1 mmHg."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_339",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Presión barométrica",
+    "dificultad": "Fácil",
+    "explicacion": "La presión barométrica a nivel del mar es de 760 mmHg.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 340,
+    "enunciado": "¿Cuál es el componente más abundante del aire atmosférico en términos de presión parcial?",
+    "opciones": {
+      "A": "Nitrógeno (N2).",
+      "B": "Oxígeno (O2).",
+      "C": "Dióxido de carbono (CO2).",
+      "D": "Argón (Ar)."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_340",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Composición del aire",
+    "dificultad": "Fácil",
+    "explicacion": "El nitrógeno (N2) es el componente más abundante del aire atmosférico en términos de presión parcial.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 341,
+    "enunciado": "¿Cuál es la presión parcial del oxígeno (PO2) en el aire atmosférico a nivel del mar?",
+    "opciones": {
+      "A": "760 mmHg.",
+      "B": "40 mmHg.",
+      "C": "152 mmHg.",
+      "D": "608 mmHg."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_341",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Presiones parciales de gases",
+    "dificultad": "Media",
+    "explicacion": "La presión parcial del oxígeno (PO2) en el aire atmosférico a nivel del mar es de aproximadamente 152 mmHg.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 342,
+    "enunciado": "¿Qué ocurre con la presión barométrica a medida que aumenta la altitud?",
+    "opciones": {
+      "A": "Aumenta.",
+      "B": "Disminuye.",
+      "C": "Permanece constante.",
+      "D": "Se duplica cada 1000 metros."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_342",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Presión barométrica",
+    "dificultad": "Fácil",
+    "explicacion": "La presión barométrica disminuye a medida que aumenta la altitud.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 343,
+    "enunciado": "¿Qué es un \"shunt\" o cortocircuito pulmonar de derecha a izquierda?",
+    "opciones": {
+      "A": "Un área del pulmón que está ventilada pero no perfundida.",
+      "B": "Un aumento de la relación V/Q.",
+      "C": "Una obstrucción de las vías respiratorias.",
+      "D": "Una cantidad de sangre que pasa del lado venoso al arterial sin oxigenarse."
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_343",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Shunt pulmonar",
+    "dificultad": "Alta",
+    "explicacion": "Un shunt o cortocircuito pulmonar de derecha a izquierda es una cantidad de sangre que pasa del lado venoso al arterial sin oxigenarse.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 344,
+    "enunciado": "¿Cuál de las siguientes condiciones puede causar un shunt pulmonar?",
+    "opciones": {
+      "A": "Cardiopatías congénitas como la tetralogía de Fallot.",
+      "B": "EPOC.",
+      "C": "Asma bronquial.",
+      "D": "Neumonía."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_344",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Shunt pulmonar",
+    "dificultad": "Alta",
+    "explicacion": "Las cardiopatías congénitas como la tetralogía de Fallot pueden causar un shunt pulmonar de derecha a izquierda.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 345,
+    "enunciado": "El grosor promedio de la membrana respiratoria (alveolo-capilar) es de aproximadamente:",
+    "opciones": {
+      "A": "0.2 μm.",
+      "B": "0.6 μm.",
+      "C": "5 μm.",
+      "D": "70 μm."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_345",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Membrana respiratoria",
+    "dificultad": "Alta",
+    "explicacion": "El grosor promedio de la membrana respiratoria (alveolo-capilar) es de aproximadamente 0.6 μm.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 346,
+    "enunciado": "El área superficial total de la membrana respiratoria en un adulto sano es de aproximadamente:",
+    "opciones": {
+      "A": "5 m2.",
+      "B": "20 m2.",
+      "C": "70 m2.",
+      "D": "140 m2."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_346",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Membrana respiratoria",
+    "dificultad": "Media",
+    "explicacion": "El área superficial total de la membrana respiratoria en un adulto sano es de aproximadamente 70 m2.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 347,
+    "enunciado": "¿Qué factor NO influye en la velocidad de difusión de un gas a través de la membrana respiratoria?",
+    "opciones": {
+      "A": "La temperatura corporal.",
+      "B": "El grosor de la membrana.",
+      "C": "El área superficial de la membrana.",
+      "D": "La diferencia de presión parcial del gas."
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_347",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Difusión de gases",
+    "dificultad": "Alta",
+    "explicacion": "La temperatura corporal no influye significativamente en la velocidad de difusión de un gas a través de la membrana respiratoria. Los factores principales son el grosor, el área superficial y la diferencia de presión parcial.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 348,
+    "enunciado": "¿Cómo se define la \"capacidad de difusión\" de la membrana respiratoria para un gas?",
+    "opciones": {
+      "A": "La presión parcial del gas en la sangre arterial.",
+      "B": "El tiempo que tarda el gas en atravesar la membrana.",
+      "C": "El volumen total de gas en los pulmones.",
+      "D": "El volumen de gas que difunde por minuto por cada mmHg de diferencia de presión."
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_348",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Difusión de gases",
+    "dificultad": "Alta",
+    "explicacion": "La capacidad de difusión de la membrana respiratoria para un gas es el volumen de gas que difunde por minuto por cada mmHg de diferencia de presión.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 349,
+    "enunciado": "La PO2 intracelular normal en los tejidos periféricos es, en promedio, de aproximadamente:",
+    "opciones": {
+      "A": "100 mmHg.",
+      "B": "40 mmHg.",
+      "C": "23 mmHg.",
+      "D": "5 mmHg."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_349",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Intercambio gaseoso tisular",
+    "dificultad": "Alta",
+    "explicacion": "La PO2 intracelular normal en los tejidos periféricos es, en promedio, de aproximadamente 23 mmHg.",
+    "estado": "activa",
+    "frecuencia": "Baja",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 350,
+    "enunciado": "La presión parcial de CO2 (PCO2) en los alvéolos es de aproximadamente:",
+    "opciones": {
+      "A": "45 mmHg.",
+      "B": "40 mmHg.",
+      "C": "100 mmHg.",
+      "D": "6 mmHg."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_350",
+    "area": "Sistema y Organos I",
+    "especialidad": "7 Capacidades pulmonares",
+    "tema": "Presiones parciales de gases",
+    "dificultad": "Media",
+    "explicacion": "La presión parcial de CO2 (PCO2) en los alvéolos es de aproximadamente 40 mmHg.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 251,
+    "enunciado": "¿Cuál es el nombre del divertículo que da origen al sistema respiratorio durante la cuarta semana de desarrollo?",
+    "opciones": {
+      "A": "Divertículo esofágico",
+      "B": "Divertículo respiratorio o yema pulmonar",
+      "C": "Divertículo traqueal",
+      "D": "Divertículo bronquial primario"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_251",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Desarrollo del sistema respiratorio",
+    "dificultad": "Media",
+    "explicacion": "El divertículo respiratorio o yema pulmonar es el divertículo que da origen al sistema respiratorio durante la cuarta semana de desarrollo.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 252,
+    "enunciado": "¿Qué estructura separa el divertículo respiratorio del intestino anterior durante el desarrollo embrionario?",
+    "opciones": {
+      "A": "La membrana traqueoesofágica",
+      "B": "El mesodermo esplácnico",
+      "C": "El tabique traqueoesofágico",
+      "D": "El pericardio"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_252",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Desarrollo del sistema respiratorio",
+    "dificultad": "Media",
+    "explicacion": "El tabique traqueoesofágico separa el divertículo respiratorio del intestino anterior durante el desarrollo embrionario.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 253,
+    "enunciado": "¿En qué fase del desarrollo pulmonar ocurre la formación de los bronquios terminales sin presencia de bronquiolos respiratorios o alveolos?",
+    "opciones": {
+      "A": "Fase pseudoglandular (5-16 ss)",
+      "B": "Fase canalicular (16-26 ss)",
+      "C": "Fase alveolar (26 ss - nacimiento)",
+      "D": "Fase embrionaria (4-5 ss)"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_253",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Fases del desarrollo pulmonar",
+    "dificultad": "Alta",
+    "explicacion": "La fase pseudoglandular (5-16 semanas) se caracteriza por la formación de los bronquios terminales sin presencia de bronquiolos respiratorios o alveolos.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 254,
+    "enunciado": "¿Durante qué fase del desarrollo pulmonar comienza la síntesis de surfactante por parte de los neumocitos tipo II?",
+    "opciones": {
+      "A": "Fase embrionaria",
+      "B": "Fase pseudoglandular",
+      "C": "Fase alveolar",
+      "D": "Fase canalicular"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_254",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Fases del desarrollo pulmonar",
+    "dificultad": "Alta",
+    "explicacion": "La síntesis de surfactante por parte de los neumocitos tipo II comienza durante la fase canalicular (16-26 semanas).",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 255,
+    "enunciado": "¿Alrededor de qué semana de gestación los pulmones tienen suficientes sacos alveolares y capilares maduros para garantizar un intercambio gaseoso adecuado?",
+    "opciones": {
+      "A": "5ta semana",
+      "B": "Final del 7mo mes",
+      "C": "16 semana",
+      "D": "26 semana"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_255",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Maduración pulmonar",
+    "dificultad": "Media",
+    "explicacion": "Al final del séptimo mes de gestación, los pulmones tienen suficientes sacos alveolares y capilares maduros para garantizar un intercambio gaseoso adecuado.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 256,
+    "enunciado": "¿Cuál es la función principal de los movimientos respiratorios fetales antes del nacimiento?",
+    "opciones": {
+      "A": "Estimular el desarrollo pulmonar y acondicionar los músculos respiratorios",
+      "B": "Permitir el intercambio gaseoso con la madre",
+      "C": "Eliminar el líquido amniótico de los pulmones",
+      "D": "Facilitar el paso de nutrientes al torrente sanguíneo"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_256",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Desarrollo pulmonar fetal",
+    "dificultad": "Media",
+    "explicacion": "Los movimientos respiratorios fetales estimulan el desarrollo pulmonar y acondicionan los músculos respiratorios antes del nacimiento.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 257,
+    "enunciado": "¿Qué tipo de células epiteliales alveolares son las responsables de sintetizar el surfactante?",
+    "opciones": {
+      "A": "Neumocitos tipo I",
+      "B": "Células caliciformes",
+      "C": "Neumocitos tipo II",
+      "D": "Células basales"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_257",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Histología pulmonar",
+    "dificultad": "Media",
+    "explicacion": "Los neumocitos tipo II son las células epiteliales alveolares responsables de sintetizar el surfactante.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 258,
+    "enunciado": "¿Qué condición clínica se asocia con la ausencia de surfactante en recién nacidos?",
+    "opciones": {
+      "A": "Neumonía congénita",
+      "B": "Síndrome de dificultad respiratoria (SDR)",
+      "C": "Fibrosis quística",
+      "D": "Asma bronquial"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_258",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Fisiopatología respiratoria neonatal",
+    "dificultad": "Media",
+    "explicacion": "El síndrome de dificultad respiratoria (SDR) se asocia con la ausencia o deficiencia de surfactante en recién nacidos prematuros.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 259,
+    "enunciado": "¿Cuál es el principal músculo inspiratorio, responsable de aproximadamente el 75% de la inspiración no forzada?",
+    "opciones": {
+      "A": "Diafragma",
+      "B": "Intercostales externos",
+      "C": "Intercostales internos",
+      "D": "Escalenos"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_259",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Músculos respiratorios",
+    "dificultad": "Fácil",
+    "explicacion": "El diafragma es el principal músculo inspiratorio, responsable de aproximadamente el 75% de la inspiración no forzada.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 260,
+    "enunciado": "Según la ley de Boyle-Mariotte, durante la inspiración, ¿qué ocurre con el volumen y la presión intratorácica?",
+    "opciones": {
+      "A": "Disminuye el volumen y aumenta la presión",
+      "B": "Aumenta el volumen y la presión",
+      "C": "Disminuye el volumen y la presión",
+      "D": "Aumenta el volumen y disminuye la presión"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_260",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Mecánica respiratoria",
+    "dificultad": "Media",
+    "explicacion": "Según la ley de Boyle-Mariotte, durante la inspiración aumenta el volumen torácico y disminuye la presión intratorácica, permitiendo la entrada de aire.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 261,
+    "enunciado": "¿Cómo se denomina el espacio virtual que se encuentra entre la pleura parietal y la pleura visceral?",
+    "opciones": {
+      "A": "Receso costofrénico",
+      "B": "Espacio pleural",
+      "C": "Cavidad torácica",
+      "D": "Seno mediastínico"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_261",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Anatomía pleural",
+    "dificultad": "Fácil",
+    "explicacion": "El espacio pleural es el espacio virtual entre la pleura parietal y la pleura visceral, que contiene una pequeña cantidad de líquido lubricante.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 262,
+    "enunciado": "¿Qué estructura anatómica marca el límite entre la porción conductora y la porción respiratoria del árbol bronquial?",
+    "opciones": {
+      "A": "Los bronquios primarios",
+      "B": "Los bronquiolos no respiratorios",
+      "C": "Los bronquiolos terminales",
+      "D": "Los bronquiolos respiratorios"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_262",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Anatomía del árbol bronquial",
+    "dificultad": "Media",
+    "explicacion": "Los bronquiolos terminales marcan el límite entre la porción conductora y la porción respiratoria del árbol bronquial.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 263,
+    "enunciado": "¿Qué tipo de epitelio reviste la mayor parte de la porción conductora del sistema respiratorio?",
+    "opciones": {
+      "A": "Epitelio ciliado pseudoestratificado con células caliciformes",
+      "B": "Epitelio simple cúbico",
+      "C": "Epitelio simple plano",
+      "D": "Epitelio estratificado plano"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_263",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Histología respiratoria",
+    "dificultad": "Media",
+    "explicacion": "La mayor parte de la porción conductora del sistema respiratorio está revestida por epitelio ciliado pseudoestratificado con células caliciformes.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 264,
+    "enunciado": "¿Cuál de los siguientes NO es un tipo celular del epitelio respiratorio?",
+    "opciones": {
+      "A": "Células caliciformes",
+      "B": "Células basales",
+      "C": "Células en cepillo",
+      "D": "Células de Schwann"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_264",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Histología respiratoria",
+    "dificultad": "Media",
+    "explicacion": "Las células de Schwann no forman parte del epitelio respiratorio; son células de soporte del sistema nervioso periférico.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 265,
+    "enunciado": "¿A qué altura de la columna vertebral se bifurca la tráquea en los bronquios primarios?",
+    "opciones": {
+      "A": "Vértebra T4",
+      "B": "Vértebra C6",
+      "C": "Vértebra T2",
+      "D": "Vértebra T8"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_265",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Anatomía traqueobronquial",
+    "dificultad": "Media",
+    "explicacion": "La tráquea se bifurca en los bronquios primarios a la altura de la vértebra T4.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 266,
+    "enunciado": "¿Cuál de las siguientes características corresponde al bronquio primario derecho en comparación con el izquierdo?",
+    "opciones": {
+      "A": "Es más largo y horizontal",
+      "B": "Es más corto, ancho y vertical",
+      "C": "Tiene un ángulo de 40-50°",
+      "D": "Mide entre 4 y 5 cm de longitud"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_266",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Anatomía traqueobronquial",
+    "dificultad": "Media",
+    "explicacion": "El bronquio primario derecho es más corto, ancho y vertical que el izquierdo, lo que favorece la aspiración de cuerpos extraños.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 267,
+    "enunciado": "¿Cuántos bronquios secundarios (lobares) tiene el pulmón izquierdo?",
+    "opciones": {
+      "A": "3",
+      "B": "5",
+      "C": "2",
+      "D": "4"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_267",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Anatomía pulmonar",
+    "dificultad": "Fácil",
+    "explicacion": "El pulmón izquierdo tiene 2 bronquios secundarios (lobares), correspondientes a los lóbulos superior e inferior.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 268,
+    "enunciado": "¿Cuántos segmentos pulmonares (bronquios terciarios) tiene el pulmón derecho?",
+    "opciones": {
+      "A": "10",
+      "B": "8",
+      "C": "5",
+      "D": "18"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_268",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Anatomía pulmonar",
+    "dificultad": "Media",
+    "explicacion": "El pulmón derecho tiene 10 segmentos pulmonares (bronquios terciarios).",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 269,
+    "enunciado": "¿Cuál es la principal característica histológica que diferencia a los bronquiolos de los bronquios?",
+    "opciones": {
+      "A": "Presencia de glándulas seromucosas",
+      "B": "Epitelio pseudoestratificado",
+      "C": "Presencia de cartílago hialino",
+      "D": "Carecen de cartílago y glándulas productoras de moco"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_269",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Histología respiratoria",
+    "dificultad": "Media",
+    "explicacion": "Los bronquiolos carecen de cartílago y glándulas productoras de moco, a diferencia de los bronquios.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 270,
+    "enunciado": "¿Cuál es el número aproximado de alvéolos en un pulmón adulto?",
+    "opciones": {
+      "A": "100 millones",
+      "B": "300 millones",
+      "C": "280 billones",
+      "D": "500 millones"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_270",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Histología pulmonar",
+    "dificultad": "Media",
+    "explicacion": "Un pulmón adulto contiene aproximadamente 300 millones de alvéolos.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 271,
+    "enunciado": "¿Qué tipo celular forma la mayor parte de la pared alveolar y participa en el intercambio gaseoso?",
+    "opciones": {
+      "A": "Neumocito tipo II",
+      "B": "Células de Clara",
+      "C": "Neumocito tipo I",
+      "D": "Macrófagos alveolares"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_271",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Histología pulmonar",
+    "dificultad": "Media",
+    "explicacion": "Los neumocitos tipo I forman la mayor parte de la pared alveolar y participan en el intercambio gaseoso.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 272,
+    "enunciado": "¿Cuál es la función principal de los neumocitos tipo II?",
+    "opciones": {
+      "A": "Sintetizar surfactante",
+      "B": "Realizar el intercambio gaseoso",
+      "C": "Fagocitar partículas extrañas",
+      "D": "Secretar moco"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_272",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Histología pulmonar",
+    "dificultad": "Fácil",
+    "explicacion": "La función principal de los neumocitos tipo II es sintetizar surfactante, que reduce la tensión superficial alveolar.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 273,
+    "enunciado": "¿Qué estructura anatómica divide al pulmón izquierdo en dos lóbulos?",
+    "opciones": {
+      "A": "Cisura transversa",
+      "B": "Cisura oblicua",
+      "C": "Cisura horizontal",
+      "D": "Cisura media"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_273",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Anatomía pulmonar",
+    "dificultad": "Media",
+    "explicacion": "La cisura oblicua divide al pulmón izquierdo en dos lóbulos: superior e inferior.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 274,
+    "enunciado": "¿Cómo se denomina la porción inferior del lóbulo superior del pulmón izquierdo?",
+    "opciones": {
+      "A": "Lóbulo medio",
+      "B": "Segmento apical",
+      "C": "Língula",
+      "D": "Base"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_274",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Anatomía pulmonar",
+    "dificultad": "Media",
+    "explicacion": "La língula es la porción inferior del lóbulo superior del pulmón izquierdo, homóloga al lóbulo medio del pulmón derecho.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 275,
+    "enunciado": "¿Cuál de las siguientes NO es una cara del pulmón?",
+    "opciones": {
+      "A": "Cara costal",
+      "B": "Cara mediastínica",
+      "C": "Cara diafragmática",
+      "D": "Cara vertebral"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_275",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Anatomía pulmonar",
+    "dificultad": "Media",
+    "explicacion": "El pulmón tiene tres caras: costal, mediastínica y diafragmática. La cara vertebral no es una cara pulmonar.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 276,
+    "enunciado": "¿Qué estructura del pedículo pulmonar se encuentra en la posición más anterior?",
+    "opciones": {
+      "A": "Vena pulmonar",
+      "B": "Arteria pulmonar",
+      "C": "Bronquio primario",
+      "D": "Nervios bronquiales"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_276",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Anatomía del pedículo pulmonar",
+    "dificultad": "Alta",
+    "explicacion": "La vena pulmonar se encuentra en la posición más anterior del pedículo pulmonar.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 277,
+    "enunciado": "¿Qué vaso sanguíneo nace del ventrículo derecho y se divide en las arterias pulmonares?",
+    "opciones": {
+      "A": "La aorta",
+      "B": "El tronco pulmonar",
+      "C": "La vena cava superior",
+      "D": "El conducto arterioso"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_277",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Circulación pulmonar",
+    "dificultad": "Fácil",
+    "explicacion": "El tronco pulmonar nace del ventrículo derecho y se divide en las arterias pulmonares derecha e izquierda.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 278,
+    "enunciado": "¿Cuántas venas pulmonares drenan la sangre oxigenada en la aurícula izquierda?",
+    "opciones": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "1"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_278",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Circulación pulmonar",
+    "dificultad": "Fácil",
+    "explicacion": "Cuatro venas pulmonares (dos derechas y dos izquierdas) drenan la sangre oxigenada en la aurícula izquierda.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 279,
+    "enunciado": "¿Cuál es la función de la circulación bronquial?",
+    "opciones": {
+      "A": "Nutrir y oxigenar el tejido bronquial y pulmonar",
+      "B": "Realizar el intercambio gaseoso",
+      "C": "Conducir sangre desoxigenada a los pulmones",
+      "D": "Drenar la sangre de los alvéolos"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_279",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Circulación bronquial",
+    "dificultad": "Media",
+    "explicacion": "La circulación bronquial tiene como función nutrir y oxigenar el tejido bronquial y pulmonar.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 280,
+    "enunciado": "¿De qué arteria se originan las arterias bronquiales?",
+    "opciones": {
+      "A": "De la arteria pulmonar",
+      "B": "De la vena cava inferior",
+      "C": "Del tronco braquiocefálico",
+      "D": "De la aorta torácica"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_280",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Circulación bronquial",
+    "dificultad": "Media",
+    "explicacion": "Las arterias bronquiales se originan de la aorta torácica.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 281,
+    "enunciado": "¿Qué nervio inerva al músculo diafragma?",
+    "opciones": {
+      "A": "Nervio frénico (C3, C4, C5)",
+      "B": "Nervio vago (X par)",
+      "C": "Nervio intercostal",
+      "D": "Nervio espinal (C6, C7)"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_281",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Inervación diafragmática",
+    "dificultad": "Fácil",
+    "explicacion": "El nervio frénico (C3, C4, C5) inerva al músculo diafragma.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 282,
+    "enunciado": "¿A qué nivel vertebral se encuentra el hiato aórtico del diafragma?",
+    "opciones": {
+      "A": "T8",
+      "B": "T12",
+      "C": "T10",
+      "D": "L1"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_282",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Anatomía diafragmática",
+    "dificultad": "Media",
+    "explicacion": "El hiato aórtico del diafragma se encuentra a nivel de la vértebra T12.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 283,
+    "enunciado": "¿Cuál de los siguientes músculos es considerado un músculo accesorio de la inspiración forzada?",
+    "opciones": {
+      "A": "Recto abdominal",
+      "B": "Intercostal interno",
+      "C": "Esternocleidomastoideo (EEC)",
+      "D": "Oblicuo mayor"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_283",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Músculos respiratorios",
+    "dificultad": "Media",
+    "explicacion": "El esternocleidomastoideo (EEC) es un músculo accesorio de la inspiración forzada.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 284,
+    "enunciado": "¿Cuál es el principal músculo de la espiración forzada?",
+    "opciones": {
+      "A": "Diafragma",
+      "B": "Intercostales externos",
+      "C": "Intercostales íntimos",
+      "D": "Rectos abdominales"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_284",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Músculos respiratorios",
+    "dificultad": "Media",
+    "explicacion": "Los rectos abdominales son el principal músculo de la espiración forzada, junto con otros músculos abdominales.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 285,
+    "enunciado": "¿Cómo se define el espacio muerto anatómico?",
+    "opciones": {
+      "A": "Volumen de aire en la vía aérea de conducción que no participa en el intercambio gaseoso",
+      "B": "Volumen de aire en los alvéolos no perfundidos",
+      "C": "Volumen de aire que participa en el intercambio gaseoso",
+      "D": "Volumen de aire residual en los pulmones"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_285",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Espacio muerto",
+    "dificultad": "Media",
+    "explicacion": "El espacio muerto anatómico es el volumen de aire en la vía aérea de conducción que no participa en el intercambio gaseoso.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 286,
+    "enunciado": "¿Cuál es el valor aproximado del espacio muerto anatómico en un adulto?",
+    "opciones": {
+      "A": "500 ml",
+      "B": "150 ml",
+      "C": "300 ml",
+      "D": "50 ml"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_286",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Espacio muerto",
+    "dificultad": "Media",
+    "explicacion": "El espacio muerto anatómico en un adulto es de aproximadamente 150 ml.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 287,
+    "enunciado": "¿Qué es la hematosis?",
+    "opciones": {
+      "A": "El proceso de transporte de oxígeno en la sangre",
+      "B": "La eliminación de dióxido de carbono",
+      "C": "El intercambio gaseoso entre el aire alveolar y la sangre capilar",
+      "D": "La ventilación mecánica"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_287",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Intercambio gaseoso",
+    "dificultad": "Fácil",
+    "explicacion": "La hematosis es el intercambio gaseoso entre el aire alveolar y la sangre capilar.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 288,
+    "enunciado": "¿Qué tipo de presión se genera en el espacio pleural durante una respiración normal?",
+    "opciones": {
+      "A": "Presión negativa (subatmosférica)",
+      "B": "Presión positiva (supraatmosférica)",
+      "C": "Presión igual a la atmosférica",
+      "D": "Presión nula"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_288",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Mecánica respiratoria",
+    "dificultad": "Media",
+    "explicacion": "Durante una respiración normal, se genera una presión negativa (subatmosférica) en el espacio pleural.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 289,
+    "enunciado": "¿Qué tipo de sensibilidad posee la pleura parietal?",
+    "opciones": {
+      "A": "Sensibilidad visceral (inconsciente)",
+      "B": "No posee sensibilidad",
+      "C": "Sensibilidad por el plexo pulmonar",
+      "D": "Sensibilidad somática (dolor, tacto)"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_289",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Inervación pleural",
+    "dificultad": "Media",
+    "explicacion": "La pleura parietal posee sensibilidad somática (dolor, tacto), a diferencia de la pleura visceral que es insensible.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 290,
+    "enunciado": "¿Qué nervio proporciona inervación sensitiva somática a la pleura parietal?",
+    "opciones": {
+      "A": "Nervio vago",
+      "B": "Nervios intercostales y nervio frénico",
+      "C": "Plexo pulmonar",
+      "D": "Nervio simpático"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_290",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Inervación pleural",
+    "dificultad": "Alta",
+    "explicacion": "Los nervios intercostales y el nervio frénico proporcionan inervación sensitiva somática a la pleura parietal.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 291,
+    "enunciado": "¿Dónde se localiza el centro respiratorio principal (área de la ritmicidad medular)?",
+    "opciones": {
+      "A": "En la protuberancia",
+      "B": "En el diencéfalo",
+      "C": "En el bulbo raquídeo",
+      "D": "En la médula espinal"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_291",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Control de la respiración",
+    "dificultad": "Media",
+    "explicacion": "El centro respiratorio principal (área de la ritmicidad medular) se localiza en el bulbo raquídeo.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 292,
+    "enunciado": "¿Cuál es la función del centro neumotáxico?",
+    "opciones": {
+      "A": "Controlar la duración de la inspiración (punto de desconexión)",
+      "B": "Estimular la hiperventilación",
+      "C": "Activar los músculos espiratorios",
+      "D": "Generar el ritmo respiratorio básico"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_292",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Control de la respiración",
+    "dificultad": "Alta",
+    "explicacion": "El centro neumotáxico controla la duración de la inspiración, actuando como punto de desconexión.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 293,
+    "enunciado": "¿Qué efecto produce la estimulación del centro apneútico?",
+    "opciones": {
+      "A": "Disminución de la frecuencia respiratoria",
+      "B": "Hiperventilación",
+      "C": "Apnea",
+      "D": "Bradipnea"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_293",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Control de la respiración",
+    "dificultad": "Alta",
+    "explicacion": "La estimulación del centro apneútico produce hiperventilación.",
+    "estado": "activa",
+    "frecuencia": "Baja",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 294,
+    "enunciado": "¿Dónde se localiza el grupo respiratorio dorsal (GRD)?",
+    "opciones": {
+      "A": "En la protuberancia",
+      "B": "En el núcleo ambiguo",
+      "C": "En el núcleo retroambiguo",
+      "D": "En el núcleo del tracto solitario (NTS)"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_294",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Control de la respiración",
+    "dificultad": "Alta",
+    "explicacion": "El grupo respiratorio dorsal (GRD) se localiza en el núcleo del tracto solitario (NTS).",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 295,
+    "enunciado": "¿Qué sustancia actúa de manera directa sobre el centro respiratorio para estimular la ventilación?",
+    "opciones": {
+      "A": "Iones hidrógeno (H+)",
+      "B": "Oxígeno (O2)",
+      "C": "Bicarbonato (HCO3-)",
+      "D": "Nitrógeno (N2)"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_295",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Control químico de la respiración",
+    "dificultad": "Alta",
+    "explicacion": "Los iones hidrógeno (H+) actúan de manera directa sobre el centro respiratorio para estimular la ventilación.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 296,
+    "enunciado": "¿Cómo actúa el CO2 sobre la zona quimiosensible central?",
+    "opciones": {
+      "A": "Estimulando directamente las neuronas",
+      "B": "Disminuyendo la concentración de H+",
+      "C": "Atravesando la barrera hematoencefálica y formando H+ con el agua",
+      "D": "Uniéndose a la hemoglobina"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_296",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Control químico de la respiración",
+    "dificultad": "Alta",
+    "explicacion": "El CO2 atraviesa la barrera hematoencefálica y forma H+ con el agua, estimulando la zona quimiosensible central.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 297,
+    "enunciado": "¿Qué efecto tiene una disminución de la Po2 arterial por debajo de 60 mmHg sobre la respiración?",
+    "opciones": {
+      "A": "Inhibición de la ventilación",
+      "B": "Aumento de la ventilación alveolar (estimulación)",
+      "C": "No tiene efecto",
+      "D": "Produce apnea"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_297",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Control químico de la respiración",
+    "dificultad": "Media",
+    "explicacion": "Una disminución de la Po2 arterial por debajo de 60 mmHg estimula los quimiorreceptores periféricos, aumentando la ventilación alveolar.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 298,
+    "enunciado": "¿Dónde se localizan los quimiorreceptores periféricos más importantes?",
+    "opciones": {
+      "A": "En el bulbo raquídeo",
+      "B": "En la aorta",
+      "C": "En el sistema nervioso central",
+      "D": "En los cuerpos carotídeos"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_298",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Control químico de la respiración",
+    "dificultad": "Media",
+    "explicacion": "Los quimiorreceptores periféricos más importantes se localizan en los cuerpos carotídeos.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 299,
+    "enunciado": "¿Qué nervio craneal transmite las señales desde los corpúsculos carotídeos?",
+    "opciones": {
+      "A": "Nervio glosofaríngeo (IX par)",
+      "B": "Nervio vago (X par)",
+      "C": "Nervio frénico",
+      "D": "Nervio hipogloso (XII par)"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_299",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Control químico de la respiración",
+    "dificultad": "Alta",
+    "explicacion": "El nervio glosofaríngeo (IX par) transmite las señales desde los corpúsculos carotídeos.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 300,
+    "enunciado": "¿Qué fenómeno explica que la ventilación alveolar se incremente hasta un 400-500% después de varios días de exposición a baja presión de O2?",
+    "opciones": {
+      "A": "Taquipnea",
+      "B": "Hipoxia aguda",
+      "C": "Aclimatación a la altitud",
+      "D": "Edema cerebral"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_300",
+    "area": "Sistema y Organos I",
+    "especialidad": "6 Ventilacion pulmonar",
+    "tema": "Control químico de la respiración",
+    "dificultad": "Alta",
+    "explicacion": "La aclimatación a la altitud explica el incremento de la ventilación alveolar hasta un 400-500% después de varios días de exposición a baja presión de O2.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 201,
+    "enunciado": "¿Cuál es la función principal del aparato respiratorio?",
+    "opciones": {
+      "A": "Regular la temperatura corporal",
+      "B": "Intercambio de gases (oxígeno y anhídrido carbónico) a nivel de los alvéolos pulmonares",
+      "C": "Filtrar los nutrientes de la sangre",
+      "D": "Producir hormonas para el crecimiento"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_201",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Función del aparato respiratorio",
+    "dificultad": "Fácil",
+    "explicacion": "La función principal del aparato respiratorio es el intercambio de gases (oxígeno y anhídrido carbónico) a nivel de los alvéolos pulmonares.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 202,
+    "enunciado": "¿A nivel de qué estructura se separan las vías aéreas superiores de las inferiores?",
+    "opciones": {
+      "A": "Tráquea",
+      "B": "Fosas nasales",
+      "C": "Laringe",
+      "D": "Bronquios"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_202",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Divisiones anatómicas respiratorias",
+    "dificultad": "Media",
+    "explicacion": "La laringe es la estructura que separa las vías aéreas superiores de las inferiores.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 203,
+    "enunciado": "¿Cuál de las siguientes NO es una función de las cavidades nasales?",
+    "opciones": {
+      "A": "Intercambio gaseoso",
+      "B": "Ingreso del aire oxigenado",
+      "C": "Temperar y humectar el aire",
+      "D": "Detectar partículas odoríferas"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_203",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Funciones nasales",
+    "dificultad": "Fácil",
+    "explicacion": "El intercambio gaseoso ocurre en los alvéolos pulmonares, no en las cavidades nasales. Las cavidades nasales ingresan, temperan, humectan el aire y detectan olores.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 204,
+    "enunciado": "¿Cómo se denomina la región de la nariz que contiene el epitelio especializado en captar olores?",
+    "opciones": {
+      "A": "Vestíbulo nasal",
+      "B": "Región respiratoria",
+      "C": "Región del limen nasal",
+      "D": "Región olfatoria"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_204",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Regiones nasales",
+    "dificultad": "Fácil",
+    "explicacion": "La región olfatoria es la zona de la nariz que contiene el epitelio especializado en captar olores.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 205,
+    "enunciado": "¿De qué estructura del encéfalo surgen las placodas olfatorias durante el desarrollo embrionario?",
+    "opciones": {
+      "A": "Telencéfalo",
+      "B": "Prosencéfalo",
+      "C": "Mesencéfalo",
+      "D": "Rombencéfalo"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_205",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Desarrollo embrionario nasal",
+    "dificultad": "Alta",
+    "explicacion": "Las placodas olfatorias surgen del prosencéfalo durante el desarrollo embrionario.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 206,
+    "enunciado": "¿Cómo se llaman los orificios anteriores de la cavidad nasal?",
+    "opciones": {
+      "A": "Coanas",
+      "B": "Fosas nasales",
+      "C": "Narinas",
+      "D": "Meatos"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_206",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía nasal",
+    "dificultad": "Fácil",
+    "explicacion": "Las narinas son los orificios anteriores de la cavidad nasal.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 207,
+    "enunciado": "¿Qué estructura forma el piso de la cavidad nasal?",
+    "opciones": {
+      "A": "Paladar duro",
+      "B": "Hueso etmoides",
+      "C": "Hueso frontal",
+      "D": "Cornetes nasales"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_207",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía nasal",
+    "dificultad": "Media",
+    "explicacion": "El paladar duro forma el piso de la cavidad nasal.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 208,
+    "enunciado": "¿Cuál es el nombre de los cornetes nasales?",
+    "opciones": {
+      "A": "Anterior, medio y posterior",
+      "B": "Lateral, medial y superior",
+      "C": "Vestibular, respiratorio y olfatorio",
+      "D": "Superior, medio e inferior"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_208",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía nasal",
+    "dificultad": "Fácil",
+    "explicacion": "Los cornetes nasales se denominan superior, medio e inferior.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 209,
+    "enunciado": "¿A través de qué estructura se comunican las fosas nasales con la nasofaringe?",
+    "opciones": {
+      "A": "Narinas",
+      "B": "Coanas",
+      "C": "Senos paranasales",
+      "D": "Meato superior"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_209",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía nasal",
+    "dificultad": "Media",
+    "explicacion": "Las coanas son las aberturas posteriores de las fosas nasales que las comunican con la nasofaringe.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 210,
+    "enunciado": "¿Cuál de los siguientes es un hueso impar que participa en la formación de las fosas nasales?",
+    "opciones": {
+      "A": "Hueso nasal",
+      "B": "Hueso maxilar",
+      "C": "Vómer",
+      "D": "Hueso palatino"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_210",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía nasal",
+    "dificultad": "Media",
+    "explicacion": "El vómer es un hueso impar que participa en la formación del tabique nasal.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 211,
+    "enunciado": "¿Qué porcentaje de las resistencias nasales totales supone la válvula nasal?",
+    "opciones": {
+      "A": "70%",
+      "B": "50%",
+      "C": "30%",
+      "D": "10%"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_211",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Fisiología nasal",
+    "dificultad": "Alta",
+    "explicacion": "La válvula nasal supone aproximadamente el 50% de las resistencias nasales totales.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 212,
+    "enunciado": "¿Cuál de las siguientes opciones describe mejor el flujo de aire durante la inspiración nasal?",
+    "opciones": {
+      "A": "Es siempre turbulento desde el ingreso.",
+      "B": "Es siempre laminar hasta los pulmones.",
+      "C": "Es turbulento en la válvula nasal y se vuelve laminar en la bóveda nasal.",
+      "D": "Es laminar en la válvula nasal y se vuelve turbulento al pasar a la zona posterior."
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_212",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Fisiología nasal",
+    "dificultad": "Alta",
+    "explicacion": "El flujo de aire es turbulento en la válvula nasal y se vuelve laminar en la bóveda nasal.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 213,
+    "enunciado": "¿Cuál de las siguientes es una función del ciclo nasal?",
+    "opciones": {
+      "A": "Disminuir la resistencia nasal permanentemente.",
+      "B": "Permitir un periodo de flujo mínimo para el aclaramiento de partículas.",
+      "C": "Aumentar la frecuencia respiratoria.",
+      "D": "Disminuir la humidificación del aire."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_213",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Fisiología nasal",
+    "dificultad": "Alta",
+    "explicacion": "El ciclo nasal permite un periodo de flujo mínimo en una fosa nasal para el aclaramiento de partículas atrapadas.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 214,
+    "enunciado": "¿Qué porcentaje de la humedad del aire inspirado proporciona la nariz?",
+    "opciones": {
+      "A": "50%",
+      "B": "75%",
+      "C": "85%",
+      "D": "95%"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_214",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Fisiología nasal",
+    "dificultad": "Media",
+    "explicacion": "La nariz proporciona aproximadamente el 85% de la humedad del aire inspirado.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 215,
+    "enunciado": "¿Cuál es el componente principal del moco nasal?",
+    "opciones": {
+      "A": "Agua (95%)",
+      "B": "Glucoproteínas (95%)",
+      "C": "Sales (95%)",
+      "D": "Células epiteliales (95%)"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_215",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Fisiología nasal",
+    "dificultad": "Media",
+    "explicacion": "El moco nasal está compuesto principalmente por agua (95%), junto con glucoproteínas, sales y células epiteliales.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 216,
+    "enunciado": "¿Qué tipo de células son las responsables del aclaramiento mucociliar?",
+    "opciones": {
+      "A": "Células caliciformes",
+      "B": "Células basales",
+      "C": "Células olfatorias",
+      "D": "Células epiteliales pseudoestratificadas ciliadas"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_216",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Histología respiratoria",
+    "dificultad": "Media",
+    "explicacion": "Las células epiteliales pseudoestratificadas ciliadas son las responsables del aclaramiento mucociliar, movilizando el moco hacia la faringe.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 217,
+    "enunciado": "¿Cuánto miden aproximadamente las vesículas olfatorias en la mucosa olfatoria de un adulto?",
+    "opciones": {
+      "A": "50-100 mm²",
+      "B": "200-300 mm²",
+      "C": "500-700 mm²",
+      "D": "800-1000 mm²"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_217",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Histología olfatoria",
+    "dificultad": "Alta",
+    "explicacion": "Las vesículas olfatorias en la mucosa olfatoria de un adulto miden aproximadamente 200-300 mm².",
+    "estado": "activa",
+    "frecuencia": "Baja",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 218,
+    "enunciado": "¿Cómo se denomina la primera neurona de la vía olfatoria?",
+    "opciones": {
+      "A": "Célula de Purkinje",
+      "B": "Célula de Schwann",
+      "C": "Célula de Schultz",
+      "D": "Célula mitral"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_218",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Vía olfatoria",
+    "dificultad": "Alta",
+    "explicacion": "La célula de Schultz es la primera neurona de la vía olfatoria, localizada en la mucosa olfatoria.",
+    "estado": "activa",
+    "frecuencia": "Baja",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 219,
+    "enunciado": "¿A través de qué estructura los nervios olfatorios atraviesan para llegar al bulbo olfatorio?",
+    "opciones": {
+      "A": "Lámina cribosa del etmoides",
+      "B": "Agujero magno",
+      "C": "Conducto óptico",
+      "D": "Fisura orbitaria superior"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_219",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Vía olfatoria",
+    "dificultad": "Media",
+    "explicacion": "Los nervios olfatorios atraviesan la lámina cribosa del etmoides para llegar al bulbo olfatorio.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 220,
+    "enunciado": "¿Qué estructura actúa como la segunda neurona en la vía olfatoria?",
+    "opciones": {
+      "A": "Células de soporte",
+      "B": "Células basales",
+      "C": "Células olfatorias",
+      "D": "Células mitrales y empenachadas"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_220",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Vía olfatoria",
+    "dificultad": "Alta",
+    "explicacion": "Las células mitrales y empenachadas del bulbo olfatorio actúan como la segunda neurona en la vía olfatoria.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 221,
+    "enunciado": "¿A qué estructura del cerebro se conecta la estría olfatoria lateral?",
+    "opciones": {
+      "A": "Área septal",
+      "B": "Córtex olfatorio primario",
+      "C": "Tálamo",
+      "D": "Hipotálamo"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_221",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Vía olfatoria",
+    "dificultad": "Alta",
+    "explicacion": "La estría olfatoria lateral se conecta con el córtex olfatorio primario.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 222,
+    "enunciado": "¿Qué par craneal inerva la mucosa nasal además del sistema nervioso autónomo?",
+    "opciones": {
+      "A": "II par (Óptico)",
+      "B": "IV par (Patético)",
+      "C": "V par (Trigémino)",
+      "D": "VII par (Facial)"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_222",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Inervación nasal",
+    "dificultad": "Media",
+    "explicacion": "El V par craneal (trigémino) inerva la mucosa nasal, proporcionando sensibilidad general además de la inervación autónoma.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 223,
+    "enunciado": "¿Qué efecto produce la estimulación de las fibras simpáticas en la mucosa nasal?",
+    "opciones": {
+      "A": "Vasoconstricción y descongestión",
+      "B": "Vasodilatación e ingurgitación",
+      "C": "Aumento de la producción de moco",
+      "D": "Disminución del flujo de aire"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_223",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Inervación nasal",
+    "dificultad": "Media",
+    "explicacion": "La estimulación simpática produce vasoconstricción y descongestión de la mucosa nasal.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 224,
+    "enunciado": "¿Qué efecto produce la estimulación de las fibras parasimpáticas en la mucosa nasal?",
+    "opciones": {
+      "A": "Vasoconstricción",
+      "B": "Disminución de la secreción glandular",
+      "C": "Descongestión nasal",
+      "D": "Vasodilatación e ingurgitación de los tejidos nasales"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_224",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Inervación nasal",
+    "dificultad": "Media",
+    "explicacion": "La estimulación parasimpática produce vasodilatación e ingurgitación de los tejidos nasales, aumentando la secreción glandular.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 225,
+    "enunciado": "¿Cuál de los siguientes senos paranasales se desarrolla durante la vida fetal tardía?",
+    "opciones": {
+      "A": "Seno esfenoidal",
+      "B": "Seno maxilar",
+      "C": "Seno etmoidal",
+      "D": "Seno frontal"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_225",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Senos paranasales",
+    "dificultad": "Alta",
+    "explicacion": "El seno maxilar se desarrolla durante la vida fetal tardía, siendo el primer seno paranasal en formarse.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 226,
+    "enunciado": "¿A qué edad comienza la neumatización del seno frontal?",
+    "opciones": {
+      "A": "Al nacer",
+      "B": "A los 3 años",
+      "C": "A los 8 años",
+      "D": "A los 15 años"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_226",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Senos paranasales",
+    "dificultad": "Alta",
+    "explicacion": "La neumatización del seno frontal comienza aproximadamente a los 8 años de edad.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 227,
+    "enunciado": "¿Cuál es el origen embrionario de la laringe?",
+    "opciones": {
+      "A": "Endodermo",
+      "B": "Ectodermo",
+      "C": "Mesodermo",
+      "D": "Trofoblasto"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_227",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Desarrollo laríngeo",
+    "dificultad": "Media",
+    "explicacion": "El epitelio de la laringe se origina del endodermo del intestino anterior.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 228,
+    "enunciado": "¿De qué arcos faríngeos se derivan los cartílagos y músculos de la laringe?",
+    "opciones": {
+      "A": "1er y 2do arco",
+      "B": "2do y 3er arco",
+      "C": "3er y 4to arco",
+      "D": "4to y 6to arco"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_228",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Desarrollo laríngeo",
+    "dificultad": "Alta",
+    "explicacion": "Los cartílagos y músculos de la laringe se derivan del cuarto y sexto arco faríngeo.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 229,
+    "enunciado": "¿Qué nervio, rama del X par craneal, inerva al músculo cricotiroideo?",
+    "opciones": {
+      "A": "Nervio laríngeo recurrente",
+      "B": "Nervio laríngeo superior",
+      "C": "Nervio glosofaríngeo",
+      "D": "Nervio hipogloso"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_229",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Inervación laríngea",
+    "dificultad": "Alta",
+    "explicacion": "El nervio laríngeo superior, rama del X par craneal, inerva al músculo cricotiroideo.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 230,
+    "enunciado": "¿Cuántos cartílagos forman la laringe?",
+    "opciones": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "9"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_230",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía laríngea",
+    "dificultad": "Media",
+    "explicacion": "La laringe está formada por 6 cartílagos: tiroides, cricoides, epiglotis, aritenoides (par), corniculados y cuneiformes.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 231,
+    "enunciado": "¿Cuál de los siguientes cartílagos laríngeos es de tipo fibroelástico?",
+    "opciones": {
+      "A": "Epiglotis",
+      "B": "Tiroides",
+      "C": "Cricoides",
+      "D": "Aritenoides"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_231",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía laríngea",
+    "dificultad": "Media",
+    "explicacion": "La epiglotis es el cartílago laríngeo de tipo fibroelástico, lo que le permite ser flexible.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 232,
+    "enunciado": "¿A qué edad la laringe desciende en el cuello para lograr su posición definitiva?",
+    "opciones": {
+      "A": "Al nacer",
+      "B": "A los 6 meses",
+      "C": "A los 12 meses",
+      "D": "A los 18-24 meses"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_232",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Desarrollo laríngeo",
+    "dificultad": "Alta",
+    "explicacion": "La laringe desciende en el cuello para lograr su posición definitiva entre los 18 y 24 meses de edad.",
+    "estado": "activa",
+    "frecuencia": "Baja",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 233,
+    "enunciado": "¿Cuál es la posición de la laringe en el adulto?",
+    "opciones": {
+      "A": "C1-C3",
+      "B": "C4-C7",
+      "C": "T1-T3",
+      "D": "C3-C6"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_233",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía laríngea",
+    "dificultad": "Media",
+    "explicacion": "En el adulto, la laringe se encuentra en la posición C4-C7.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 234,
+    "enunciado": "¿Cuál es la longitud aproximada de la tráquea en un adulto?",
+    "opciones": {
+      "A": "6 cm",
+      "B": "9 cm",
+      "C": "12 cm",
+      "D": "15 cm"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_234",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía traqueal",
+    "dificultad": "Media",
+    "explicacion": "La tráquea en un adulto tiene una longitud aproximada de 12 cm.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 235,
+    "enunciado": "¿De qué estructura embrionaria se origina la tráquea?",
+    "opciones": {
+      "A": "Divertículo ventral del intestino anterior",
+      "B": "Divertículo dorsal del intestino anterior",
+      "C": "Ectodermo de la faringe",
+      "D": "Mesodermo de los arcos branquiales"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_235",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Desarrollo traqueal",
+    "dificultad": "Alta",
+    "explicacion": "La tráquea se origina del divertículo ventral del intestino anterior.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 236,
+    "enunciado": "¿Qué estructura separa el esbozo pulmonar del esófago durante el desarrollo?",
+    "opciones": {
+      "A": "Membrana buconasal",
+      "B": "Tabique nasal",
+      "C": "Placa cribiforme",
+      "D": "Tabique traqueoesofágico"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_236",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Desarrollo traqueal",
+    "dificultad": "Alta",
+    "explicacion": "El tabique traqueoesofágico separa el esbozo pulmonar del esófago durante el desarrollo embrionario.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 237,
+    "enunciado": "¿Cómo se denomina el último cartílago traqueal que marca la bifurcación?",
+    "opciones": {
+      "A": "Epiglotis",
+      "B": "Carina",
+      "C": "Cornete",
+      "D": "Válvula nasal"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_237",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía traqueal",
+    "dificultad": "Media",
+    "explicacion": "La carina es el último cartílago traqueal que marca la bifurcación de la tráquea en los bronquios principales.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 238,
+    "enunciado": "¿Cuántos anillos cartilaginosos presenta la tráquea aproximadamente?",
+    "opciones": {
+      "A": "6 a 10",
+      "B": "10 a 15",
+      "C": "16 a 20",
+      "D": "25 a 30"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_238",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía traqueal",
+    "dificultad": "Media",
+    "explicacion": "La tráquea presenta aproximadamente 16 a 20 anillos cartilaginosos en forma de C.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 239,
+    "enunciado": "¿Qué estructura se encuentra por delante de la porción cervical de la tráquea?",
+    "opciones": {
+      "A": "Istmo del cuerpo tiroideo",
+      "B": "Esófago",
+      "C": "Nervio recurrente laríngeo",
+      "D": "Cayado aórtico"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_239",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía traqueal",
+    "dificultad": "Media",
+    "explicacion": "El istmo del cuerpo tiroideo se encuentra por delante de la porción cervical de la tráquea.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 240,
+    "enunciado": "¿De qué arteria se originan las arterias tiroideas inferiores que vascularizan la tráquea cervical?",
+    "opciones": {
+      "A": "Arteria aorta",
+      "B": "Arteria carótida común",
+      "C": "Arteria mamaria interna",
+      "D": "Arteria subclavia"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_240",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Vascularización traqueal",
+    "dificultad": "Alta",
+    "explicacion": "Las arterias tiroideas inferiores, que vascularizan la tráquea cervical, se originan de la arteria subclavia.",
+    "estado": "activa",
+    "frecuencia": "Baja",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 241,
+    "enunciado": "La función principal de las fosas nasales incluye:",
+    "opciones": {
+      "A": "Intercambio de oxígeno y dióxido de carbono.",
+      "B": "Calentar, humedecer y filtrar el aire inspirado.",
+      "C": "Producción de sonidos para la fonación.",
+      "D": "Conducir el aire directamente a los alvéolos."
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_241",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Funciones nasales",
+    "dificultad": "Fácil",
+    "explicacion": "La función principal de las fosas nasales es calentar, humedecer y filtrar el aire inspirado.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 242,
+    "enunciado": "¿Cuál de las siguientes estructuras NO forma parte de las vías aéreas superiores?",
+    "opciones": {
+      "A": "Fosas nasales",
+      "B": "Faringe",
+      "C": "Bronquios",
+      "D": "Laringe"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_242",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Divisiones anatómicas respiratorias",
+    "dificultad": "Fácil",
+    "explicacion": "Los bronquios forman parte de las vías aéreas inferiores, no de las superiores.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 243,
+    "enunciado": "¿Qué tipo de epitelio recubre la región respiratoria de la cavidad nasal?",
+    "opciones": {
+      "A": "Pseudoestratificado ciliado",
+      "B": "Estratificado escamoso",
+      "C": "Simple cúbico",
+      "D": "Simple columnar"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_243",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Histología respiratoria",
+    "dificultad": "Media",
+    "explicacion": "La región respiratoria de la cavidad nasal está recubierta por epitelio pseudoestratificado ciliado.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 244,
+    "enunciado": "¿Dónde se encuentran las glándulas de Bowman?",
+    "opciones": {
+      "A": "En la tráquea",
+      "B": "En los senos paranasales",
+      "C": "En la laringe",
+      "D": "En la lámina propia de la mucosa olfatoria"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_244",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Histología olfatoria",
+    "dificultad": "Alta",
+    "explicacion": "Las glándulas de Bowman se encuentran en la lámina propia de la mucosa olfatoria y producen moco para disolver las sustancias odoríferas.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 245,
+    "enunciado": "¿Cuál es la función de las vibrisas en el vestíbulo nasal?",
+    "opciones": {
+      "A": "Humedecer el aire",
+      "B": "Filtrar partículas grandes del aire",
+      "C": "Calentar el aire",
+      "D": "Detectar olores"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_245",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Funciones nasales",
+    "dificultad": "Fácil",
+    "explicacion": "Las vibrisas del vestíbulo nasal filtran partículas grandes del aire inspirado.",
+    "estado": "activa",
+    "frecuencia": "Alta",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 246,
+    "enunciado": "¿Cuál es el nombre del conducto que se forma por la invaginación del epitelio del tabique nasal?",
+    "opciones": {
+      "A": "Conducto lagrimal",
+      "B": "Conducto auditivo",
+      "C": "Órgano vomeronasal",
+      "D": "Conducto infundibular"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_246",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Desarrollo nasal",
+    "dificultad": "Alta",
+    "explicacion": "El órgano vomeronasal se forma por la invaginación del epitelio del tabique nasal.",
+    "estado": "activa",
+    "frecuencia": "Baja",
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 247,
+    "enunciado": "¿En qué semana de gestación aparecen las prominencias nasales mediales y laterales?",
+    "opciones": {
+      "A": "Semana 5",
+      "B": "Semana 6",
+      "C": "Semana 7",
+      "D": "Semana 8"
+    },
+    "respuesta": "A",
+    "id": "Sistema y Organos_247",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Desarrollo nasal",
+    "dificultad": "Alta",
+    "explicacion": "Las prominencias nasales mediales y laterales aparecen en la semana 5 de gestación.",
+    "estado": "activa",
+    "frecuencia": "Baja",
+    "respuesta_correcta": "A"
+  },
+  {
+    "numero": 248,
+    "enunciado": "¿Qué estructura separa las cavidades nasal y oral durante el desarrollo embrionario?",
+    "opciones": {
+      "A": "Tabique nasal",
+      "B": "Placa cribiforme",
+      "C": "Coanas primitivas",
+      "D": "Membrana buconasal"
+    },
+    "respuesta": "D",
+    "id": "Sistema y Organos_248",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Desarrollo nasal",
+    "dificultad": "Alta",
+    "explicacion": "La membrana buconasal separa inicialmente las cavidades nasal y oral durante el desarrollo embrionario.",
+    "estado": "activa",
+    "frecuencia": "Baja",
+    "respuesta_correcta": "D"
+  },
+  {
+    "numero": 249,
+    "enunciado": "¿A qué edad se completa la formación de los cornetes nasales?",
+    "opciones": {
+      "A": "5ta semana",
+      "B": "8va semana",
+      "C": "12va semana",
+      "D": "Al nacer"
+    },
+    "respuesta": "B",
+    "id": "Sistema y Organos_249",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Desarrollo nasal",
+    "dificultad": "Alta",
+    "explicacion": "La formación de los cornetes nasales se completa alrededor de la octava semana de gestación.",
+    "estado": "activa",
+    "frecuencia": "Baja",
+    "respuesta_correcta": "B"
+  },
+  {
+    "numero": 250,
+    "enunciado": "¿Cuál de los siguientes meatos nasales se encuentra entre el cornete inferior y el piso de la cavidad nasal?",
+    "opciones": {
+      "A": "Meato nasal superior",
+      "B": "Meato nasal medio",
+      "C": "Meato nasal inferior",
+      "D": "Receso esfenoetmoidal"
+    },
+    "respuesta": "C",
+    "id": "Sistema y Organos_250",
+    "area": "Sistema y Organos I",
+    "especialidad": "5 Mecanica Respiratoria",
+    "tema": "Anatomía nasal",
+    "dificultad": "Media",
+    "explicacion": "El meato nasal inferior se encuentra entre el cornete inferior y el piso de la cavidad nasal.",
+    "estado": "activa",
+    "frecuencia": "Media",
+    "respuesta_correcta": "C"
+  },
+  {
     "numero": 151,
     "enunciado": "¿Cuál es el nombre de la capa de la pared vascular que está compuesta por endotelio y lámina basal?",
     "opciones": {
